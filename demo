@@ -4,4 +4,5 @@ class Demo
   {
     new file
      created
+System.out.println("file created");
 }
