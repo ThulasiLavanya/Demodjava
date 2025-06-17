@@ -1,8 +1,0 @@
-class Demo
-{
-  public static void main (String []args)
-  {
-    new file
-     created
-System.out.println("file created");
-}
